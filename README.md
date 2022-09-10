@@ -34,5 +34,5 @@ TechCareer.Net Back-end Dev. with C# projesi
 
 ## Admin Bilgileri:
 
-Kullancı Adı:Admin
-Şifre:Admin
+* Kullancı Adı:Admin
+* Şifre:Admin
