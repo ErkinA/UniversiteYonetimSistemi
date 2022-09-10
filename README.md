@@ -20,8 +20,9 @@ TechCareer.Net Back-end Dev. with C# projesi
 
 ## Gereklilikler:
 
-Microsoft Visual Studio
-Microsoft SQL Server
+* Microsoft Visual Studio
+
+* Microsoft SQL Server
 
 ## Kurulum:
 
